@@ -1,0 +1,6 @@
+version: "3.8"
+
+services:
+  server1:
+    build: ./server
+    container_name: server1

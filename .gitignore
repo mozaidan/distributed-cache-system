@@ -1,0 +1,17 @@
+# Maven / Gradle
+target/
+*.class
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+*.pid
+*.sock
+.env
+docker-compose.override.yml
